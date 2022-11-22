@@ -14,6 +14,6 @@
 **pip install requests**
 ######
 **pip install mechanize**
-#RUN PROGRAM
+# RUN PROGRAM
 ######
-*python save-nimex.py
+**python save-nimex.py**
