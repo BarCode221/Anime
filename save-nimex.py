@@ -1,6 +1,5 @@
-import os,sys,random,requests,threading,rich.progress,httpx
-import shutil
-from tqdm.auto import tqdm
+import os,sys,random,requests,threading
+
 os.system("clear")
 print('\33[35m')
 logo = """
