@@ -1,20 +1,20 @@
 # Get Istri Anime
 ## Command Program
-**pkg update && pkg upgrade**
+**`pkg update && pkg upgrade`**
 ######
-**pkg install git**
+**`pkg install git`**
 ######
-**git clone https://github.com/BarCode221/Anime**
+**`git clone https://github.com/BarCode221/Anime`**
 ######
-**cd Anime**
+**`cd Anime`**
 ######
-**pkg install python**
+**`pkg install python`**
 ######
-**pkg install pip**
+**`pkg install pip`**
 ######
-**pip install requests**
+**`pip install requests`**
 ######
-**pip install mechanize**
+**`pip install mechanize`**
 # RUN PROGRAM
 ######
-**python save-nimex.py**
+**`python save-nimex.py`**
