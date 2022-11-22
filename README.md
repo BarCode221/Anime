@@ -17,4 +17,6 @@
 **`pip install mechanize`**
 # RUN PROGRAM
 ######
+**`pip install --upgrade pip`**
+######
 **`python save-nimex.py`**
