@@ -1,4 +1,5 @@
 # Get Istri Anime
+## Command Program
 **pkg update && pkg upgrade**
 ######
 **pkg install git**
