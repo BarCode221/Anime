@@ -1,5 +1,7 @@
 # Get Istri Anime
 ## Command Program
+**`cd $HOME/storage/pictures`**
+######
 **`pkg update && pkg upgrade`**
 ######
 **`pkg install git`**
