@@ -1,4 +1,5 @@
 # Get Istri Anime
+![contoh](Gambar/py.png)
 ## Command Program
 **`cd $HOME/storage/pictures`**
 ######
